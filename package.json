@@ -1,8 +1,8 @@
 {
-  "name": "episode-2",
+  "name": "Food Ordering App",
   "version": "1.0.0",
-  "description": "This is the Episode 2 of Namaste React",
-  "main": "index.html",
+  "description": "React practice project",
+
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
